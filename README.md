@@ -1,31 +1,14 @@
-# SANDIP.SEC — Portfolio V2
+SANDIP MAIN PORTFOLIO — UPDATED STATIC HTML/CSS/JS
 
-This is the next iteration of the Sandip cybersecurity portfolio.
+Open index.html in a browser to preview. It includes a cleaner abstract security-dashboard illustration, real inline SVG social icons, correct Instagram/LinkedIn/email links, and mobile-first responsive adjustments.
 
-## What changed from V1
+Socials:
+Instagram: https://www.instagram.com/sandipmandal.me/
+LinkedIn: https://www.linkedin.com/in/sandip-mandal-7b4680380/
+Email: escapematrics@proton.me
 
-- More cinematic hero composition
-- Interactive canvas network remains the main visual identity
-- More depth and movement without adding a generic 3D model
-- Mouse-reactive project cards
-- Magnetic buttons/links
-- Staggered scroll reveals
-- Animated skills marquee
-- More refined contact section with an abstract orbit
-- Better mobile behavior
-- `prefers-reduced-motion` support
+Project links:
+https://sandipmandal.vercel.app
+https://sandipmandal.lol
 
-## Replace these placeholders
-
-In `index.html`:
-
-- `https://github.com/` → your GitHub profile/repositories
-- `https://www.linkedin.com/` → your LinkedIn
-- `your.email@example.com` → your email
-- Project links → the actual repository/demo links
-
-## Run
-
-Open `index.html` in Chrome or Edge.
-
-No build system is required. The only external dependency is the Google font loaded by CSS.
+CSS and JavaScript are embedded. The illustration is inline SVG. Google Fonts are optional and system font fallbacks are provided.
